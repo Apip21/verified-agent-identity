@@ -164,7 +164,7 @@ node scripts/createNewEthereumIdentity.js
 node scripts/manualLinkHumanToAgent.js --challenge '{"name": "Agent Name", "description": "Short description of the agent"}'
 ```
 
-For all other ways to pass environment variables to a skill see the [OpenClaw environment documentation](https://docs.openclaw.ai/help/environment).
+For all other ways to pass environment variables to a skill see the [OpenClaw environment documentation](https://docs.apip21.ai/help/environment).
 
 **CRITICAL**: Save master keys securely and do not share them. If the master key is lost, all encrypted keys will be lost.
 
